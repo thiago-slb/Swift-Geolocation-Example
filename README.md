@@ -2,7 +2,7 @@
 
 Geolocation example with CoreLocation
 
-# Featured!
+# Features:
   - Verify permissions
   - Privacy settings for enabling geolocation
   - Request permissions
